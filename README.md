@@ -46,4 +46,4 @@ Our shell has support for the following built-in commands:
 
 ### Credits
 
-All code written by [George Joshua](https://github.com/Ayomiposy) and [Samuel Maclawrence](https://github.com/sachekchif).
+All code written [George Joshua](https://github.com/Ayomiposy) and [Samuel Maclawrence](https://github.com/sachekchif).
